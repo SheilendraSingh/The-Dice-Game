@@ -1,0 +1,46 @@
+
+body{
+    background-color: rgb(6, 32, 32);
+}
+
+h1{
+    font-family:  'Kalam', cursive ;
+    font-weight: 700;
+    font-size: 6rem;
+    color: darkcyan;
+    text-align: center;
+    padding-top: 3%;
+}
+h3{
+    color: #fff;
+    font-family: 'Poor Story', cursive;
+    font-weight: 400;
+    font-size: 25px;
+    text-align: center;
+    margin: 7% 0;
+}
+
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.dice {
+    color: #fff;
+    font-family: 'Poor Story', cursive;
+    font-weight: 400;
+    font-size: 47px;
+    text-align: center;
+    display: inline-block;
+
+
+
+}
+.dice1{
+    margin-right: 5%;
+}
+p{
+    margin-top: 5px;
+}
+
